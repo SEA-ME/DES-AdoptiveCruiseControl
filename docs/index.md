@@ -1,4 +1,4 @@
-# Project XX: Project Title
+# Project 09: Adoptive Cruise Control System - Simulation + PiRacer version
 
 
 # Description

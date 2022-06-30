@@ -1,2 +1,2 @@
-# project template
-Template repository for a SEA:ME (OER) project.
+# DES-AdoptiveCruiseControl
+A Distributed Embedded Systems Module Project: Adoptive Cruise Control.
